@@ -14,7 +14,7 @@
 <body>
 	<div class="padding-all">
 		<div class="header">
-			<h1><img src="~/5.png" alt=" "> Gaming Login Form</h1>
+			<h1><img src="../5.png" alt=" "> Gaming Login Form</h1>
 		</div>
 
 		<div class="design-w3l">
