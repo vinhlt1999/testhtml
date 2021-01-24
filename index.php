@@ -1,9 +1,4 @@
-<!--
-Author: W3layouts
-Author URL: http://w3layouts.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
--->
+
 <!DOCTYPE html>
 <html>
 
@@ -19,7 +14,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <body>
 	<div class="padding-all">
 		<div class="header">
-			<h1><img src="../5.png" alt=" "> Gaming Login Form</h1>
+			<h1><img src="~/5.png" alt=" "> Gaming Login Form</h1>
 		</div>
 
 		<div class="design-w3l">
