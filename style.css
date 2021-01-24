@@ -30,18 +30,18 @@ img{max-width:100%;}
 /****-----start-body----****/
 body{
 text-align: center;
-background: url("../images/1.jpg") 0px 0px no-repeat;
+background: url("../1.jpg") 0px 0px no-repeat;
 background-size:cover;
 background-attachment: fixed;
 }
 
 @font-face{
 font-family: "Audiowide-Regular";
-src:url(../fonts/Audiowide-Regular.ttf);
+src:url(../Audiowide-Regular.ttf);
 }
 @font-face{
 font-family: "Asap-Regular";
-src:url(../fonts/Asap-Regular.ttf);
+src:url(../Asap-Regular.ttf);
 }
 .padding-all{
 padding:100px;
